@@ -18,7 +18,7 @@ This Python script generates a vibrant and intricate digital Pookalam, a traditi
 
 ### Preview
 
-![My Pookalam](output/pookalam-preview.png)
+![My Pookalam](pookalam-preview.png)
 
 ---
 ---
